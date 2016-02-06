@@ -5,7 +5,7 @@ show your love for Cool Hacks.
 
 # Contents:
 
-* [Badges](https://github.com/coolhacks/stuff/tree/master/stuff)
+* [Badges](#badges)
 
 
 ## Badges:
@@ -13,8 +13,28 @@ show your love for Cool Hacks.
 I have created some badges that you can use in your repo to show your support for coolhacks.
 
 [![CoolHacks](https://img.shields.io/badge/coolhacks-approved-brightgreen.svg?style=flat)](https://github.com/coolhacks)
+
+Use this code for putting up the badge:
+
+```markdown
+[![CoolHacks](https://img.shields.io/badge/coolhacks-approved-brightgreen.svg?style=flat)](https://github.com/coolhacks)
+```
+
 [![CoolHacks](https://img.shields.io/badge/coolhacks-approved-brightgreen.svg?style=flat-square)](https://github.com/coolhacks)
+
+Use this code for putting up the badge:
+
+```markdown
+[![CoolHacks](https://img.shields.io/badge/coolhacks-approved-brightgreen.svg?style=flat-square)](https://github.com/coolhacks)
+```
+
 [![CoolHacks](https://img.shields.io/badge/coolhacks-approved-brightgreen.svg?style=plastic)](https://github.com/coolhacks)
+
+Use this code for putting up the badge:
+
+```markdown
+[![CoolHacks](https://img.shields.io/badge/coolhacks-approved-brightgreen.svg?style=plastic)](https://github.com/coolhacks)
+```
 
 # Contributing: 
 
